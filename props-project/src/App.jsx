@@ -1,12 +1,16 @@
 import Home from "./homeone/Homeone"
 import Hometwo from "./hometwo/Hometwo"
+import Homeiii from "./homeiii/Homeiii"
+import Link from "./homeiii/Homeiii"
+
 
 
 const App = () => {
   return (
     <div>
-      <Home/>
+      <Home/>             
       <Hometwo/>
+      <Link/>
     </div>
   )
 }
